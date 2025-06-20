@@ -27,8 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelmekonnen&show_icons=true&locale=en&layout=compact" alt="joelmekonnen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joelmekonnen&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-    alt="joelmekonnen" /></p>
-
+[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelMekonnen)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelmekonnen&" alt="joelmekonnen" /></p>
 
